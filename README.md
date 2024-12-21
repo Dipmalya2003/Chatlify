@@ -26,7 +26,7 @@ Check out Chatlify in action: [Chatlify on Streamlit](https://chatlify.streamlit
 
 ### Backend  
 - **Programming Language**: Python  
-- **Libraries/Tools**: Pillow, Docker, Pickle, Gemini AI (1.5 Flash)  
+- **Libraries/Tools**: Pillow, Pickle, Gemini AI (1.5 Flash)  
 
 ### Frontend  
 - **Framework**: Streamlit  
